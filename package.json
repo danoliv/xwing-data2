@@ -23,7 +23,9 @@
     "jsonlint-cli": "^1.0.1",
     "lint-staged": "^10.0.7",
     "node-fetch": "^2.6.0",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "quicktype-core": "~6.0.66",
+    "is-url": "~1.2.4"
   },
   "husky": {
     "hooks": {
